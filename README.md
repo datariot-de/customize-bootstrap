@@ -17,12 +17,12 @@
     Now, in the terminal, run `npm run start`.
     Make a change to your SCSS file and save to check.
 *   If you want to run [live-server](https://npmjs.org/package/live-server), open a new tab in your terminal (`CTRL + SHIFT + T`) and run the command live-server.
-* locate the sass file in the bootstrap folder in your node_modules and add an import to the file [sass/styles.scss]
+* locate the sass file in the bootstrap folder in your node_modules and add an import to the file `sass/styles.scss`
 
 ## 2. Apply classes in index.html
 
-* open [styles.html] in order to implement the given layout [layout.final.png]
-* Classes to use: [container], [row], [col-...], [order-...] [jumbotron], [btn], [btn-...], [img-fluid]
+* open `styles.html` in order to implement the given layout `layout.final.png`
+* Classes to use: `container`, `row`, `col-...`, `order-...`, `jumbotron`, `btn`, `btn-...`, `img-fluid`
 
 ## 3. customize styles
 
