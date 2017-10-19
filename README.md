@@ -1,4 +1,4 @@
-# SASS Mixins, variables and usage of an array
+# Working with Bootstrap and SASS
 
 ## 1. Installing
 
