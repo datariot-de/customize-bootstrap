@@ -1,7 +1,5 @@
 # SASS Mixins, variables and usage of an array
 
-** Little exercise to define and use
-
 ## 1. Installing
 
 *   Initialize a package.json (`npm init` and then answer the questions).
@@ -26,7 +24,7 @@
 
 ## 3. customize styles
 
-** Little changes shall be done to the design that are different from bootstrap's default theme. It is your task to find out if the changes can be done by a) changing a bootstrap variable or b) overriding the styles with a selector in your styles.scss
+**Little changes shall be done to the design that are different from bootstrap's default theme. It is your task to find out if the changes can be done by a) changing a bootstrap variable or b) overriding the styles with a selector in your styles.scss**
 
 * The layout shall be never wider than 1020px and the grid's gutter is 20px
 * The border radii shall be way larger, set them all to 1.75rem
